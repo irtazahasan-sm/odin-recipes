@@ -1,0 +1,51 @@
+img {
+    width: auto;
+    height: 300px;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.recipe {
+    color: darksalmon;
+}
+
+.description {
+    background-color: antiquewhite;
+    color: burlywood;
+}
+
+.ingredients {
+    background-color: bisque;
+    color: brown;
+}
+
+h2.ingredients {
+    background-color: beige;
+    color: lightcoral;
+}
+
+.steps {
+    background-color: thistle;
+    color: black;
+}
+
+h2.steps {
+    background-color: pink;
+    color: white;
+}
+
+div.mainmenu {
+    border: 5px solid;
+    text-align: center;
+}
+
+.mainmenu {
+    background-color: azure;
+}
+
+.note {
+    background-color: palevioletred;
+    color: aliceblue;
+}
